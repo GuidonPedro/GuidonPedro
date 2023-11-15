@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @GuidonPedro. I am a curious, tech enthusiast and Brazilian student at International University of Applied Sciences (Germany). 
+- 👋 Hi, I’m @Guilherme Guidon Pedro. I am a curious, tech enthusiast and Brazilian student at International University of Applied Sciences (Germany). 
 - 🌱 I’m currently learning how to manipulate Python and
 - 👀💞️ I’m looking to collaborate and learn about cyber security field.
 - 📫 It´s easy to reach me. I would love to share knowledge and obtain mentorships or any relevant information at the forward LinkedIn adress https://www.linkedin.com/in/guilherme-guidon-pedro-70321234/
-- GuidonPedro/GuidonPedro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- You can click the Preview link to take a look at changes.
+- GuidonPedro/GuidonPedro is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
